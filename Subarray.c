@@ -1,3 +1,4 @@
+//Finding the subarray whose sum equal to a given sum and finding the range of indices
 #include<stdio.h>
 #include<stdlib.h>
 
